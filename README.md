@@ -1,3 +1,3 @@
 # shallow-goof
 
-This is a shallow node project with zero code and a single (vuln) dep
+This is a shallow node and Ruby project with zero code and only a few vulns
